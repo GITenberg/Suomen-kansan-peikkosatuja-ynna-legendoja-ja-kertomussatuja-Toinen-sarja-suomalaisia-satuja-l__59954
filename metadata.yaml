@@ -1,5 +1,8 @@
 _repo: Suomen-kansan-peikkosatuja-ynna-legendoja-ja-kertomussatuja-Toinen-sarja-suomalaisia-satuja-l__59954
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Härkönen, Iivo
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50693
     wikipedia: https://fi.wikipedia.org/wiki/Iivo_H%C3%A4rk%C3%B6nen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59954#Suomen-kansan-peikkosatuja-ynna-legendoja-ja-kertomussatuja-Toinen-sarja-suomalaisia-satuja-l_
 gutenberg_issued: '2019-07-20'
 gutenberg_type: Text
 identifiers:
